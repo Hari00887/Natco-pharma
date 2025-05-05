@@ -49,6 +49,7 @@ Trend line and comparative year-on-year insights
 📂 Project Structure
 
 📁 NatcoPharma-Dashboard/
+
 ├── 📊 Natco_Dashboard.pbix         
 ├── 📄 Financial_Performance.csv    
 ├── 📝 SQL_Queries.sql             
